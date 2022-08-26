@@ -1,24 +1,41 @@
-## Arduino-Projects
+## Finger Counter using Arduino
 
-**Table of contents :**
-
-> [\[1\] Chrome Dinosaur game with Arduino](https://github.com/mustakim300/Arduino-Projects/tree/main/Chrome%20Dinosaur%20game%20with%20Arduino)
-> 
-> [\[2\] Finger Counter using Arduino](https://github.com/mustakim300/Arduino-Projects/tree/main/Finger%20Counter%20using%20Arduino)
+In this I have made a finger counter with the help of media-pipe library and finger count will display on the seven-segment LED. For this will require software and some hardware components and here I’m using C and python because Arduino code is written in C and the sending code that is which is communicating with Arduino is written in Python so let’s move further and make this project, below are the list of component and software which you will required in this project. To know more about this project read the full article from [**Here**](https://electrocircuit.net/chrome-dinosaur-game-with-arduino/)
 
 
 
+OR : 
 
-![image](https://user-images.githubusercontent.com/68029648/186951970-9acacfc8-bf3f-40f0-bf28-599209df7a95.png)
+>  **Visit :-** https://electrocircuit.net/finger-counter-using-arduino/
+
+ 
+ 
+
+Below you will find the Circuit & Output vide and code you can find from repository
+   
+
+    Circuit_Diagram
 
 
 
-Here you will find Arduino projects. In this I have also used Machine Learning with Arduino with the help of Serial-Communication, you can find other full projects on my website of ([`Electrocircuit`](https://electrocircuit.net/))
+
+![image](https://user-images.githubusercontent.com/68029648/186954246-bf6ddc32-74a4-4653-ae11-e81c9f893b27.png)
+
+
+
+ 
+
+     Output_Video
 
 
 
 
----
+https://user-images.githubusercontent.com/68029648/186954945-c5d4f66c-696f-496c-af17-e308a28feb60.mp4
+
+
+
+
+
 
 
 
