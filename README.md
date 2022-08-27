@@ -3,8 +3,11 @@
 **Table of contents :**
 
 > [\[1\] Chrome Dinosaur game with Arduino](https://github.com/mustakim300/Arduino-Projects/tree/main/Chrome%20Dinosaur%20game%20with%20Arduino)
-> 
+
 > [\[2\] Finger Counter using Arduino](https://github.com/mustakim300/Arduino-Projects/tree/main/Finger%20Counter%20using%20Arduino)
+
+> [\[2\] Finger Counter using Arduino](https://github.com/mustakim300/Arduino-Projects/blob/main/Digital%20Thermometer%20using%20Arduino/README.md)
+
 
 
 
