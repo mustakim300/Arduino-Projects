@@ -6,7 +6,7 @@
 
 > [\[2\] Finger Counter using Arduino](https://github.com/mustakim300/Arduino-Projects/tree/main/Finger%20Counter%20using%20Arduino)
 
-> [\[2\] Finger Counter using Arduino](https://github.com/mustakim300/Arduino-Projects/blob/main/Digital%20Thermometer%20using%20Arduino/README.md)
+> [\[3\] Digital Thermometer using Arduino](https://github.com/mustakim300/Arduino-Projects/blob/main/Digital%20Thermometer%20using%20Arduino/README.md)
 
 
 
