@@ -23,6 +23,3 @@ Here you will find Arduino projects. In this I have also used Machine Learning w
 
 ---
 
-
-
-bcvbcv
